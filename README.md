@@ -38,5 +38,5 @@ El trabajo se desarrolló en varias etapas:
 - `Dashboard_Adopciones.pbix` → Dashboard completo en Power BI.  
 - `Informe_Adopcion.docx` → Informe final con conclusiones y recomendaciones.  
 
-✍️ Autor: *[Tu Nombre]*  
+✍️ Autor: *Joseph Farid Rojas Manrique*  
 📅 Fecha: Septiembre 2025  
